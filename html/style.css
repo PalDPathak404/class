@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-family: Georgia;
+}
+p {
+  font-size: 20px;
+  color: rgb(40, 163, 59);
+}
+.mango{
+    background-color:aquamarine;
+    color: red;
+    border: 2px dotted gray;
+    border-color: green;
+}
